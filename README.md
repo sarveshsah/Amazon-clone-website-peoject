@@ -1,1 +1,1 @@
-# Amazon-clone-website-peoject
+# Amazon-clone-website-project
